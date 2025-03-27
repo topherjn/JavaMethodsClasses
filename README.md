@@ -14,7 +14,9 @@
 - Decisions
 - Methods (static)
 
-## Without classes - [GolfScores.java](/Golfer%20Parallel%20Arrays/GolfScores.java)
+## Golfers without Classes
+
+- [Golfers.java]()
 
 ## Complex data types
 
@@ -22,11 +24,17 @@
 - User-defined vs System defined
 - Reference types vs value types
 
+## Polymophism in action
+
+- Unit
+- PlayerUnit
+- EnemyUnit
+
 ## Classes
 
-### [Golfer.java](/Golfer%20Class%20Simple/Golfer.java)
+### 
 
-### Driver [GolfDriver.java](/Golfer%20Class%20Simple/GolfDriver.java)
+### Driver 
 
 ## Object-oriented Programming Principles
 
@@ -56,9 +64,3 @@ Hiding complex implementation details and exposing only the necessary features, 
 - procedures, subroutines, functions, methods
 - static methods
 - member functions
-
-## Polymophism in action
-
-- Unit
-- PlayerUnit
-- EnemyUnit
