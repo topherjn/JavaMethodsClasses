@@ -8,6 +8,7 @@
   - **Floating-point types**: `float`, `double`
   - **Character type**: `char`
   - **Boolean type**: `boolean`
+- Literals
 - Variables
 - Statements
 - Loops
@@ -67,3 +68,5 @@ Hiding complex implementation details and exposing only the necessary features, 
 ### Golfer with accessors and mutators aka getters and setters
 
 - [Golfer.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-4-mutators-accessors/Golfer.java)
+
+## Summary
