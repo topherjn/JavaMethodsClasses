@@ -36,9 +36,17 @@
 
 - [Golfer.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-1-simplest-class/Golfer.java)
 
-### 
+### Golfer with constructor
 
-### Driver 
+- [Golfer.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-2-constructor/Golfer.java)
+
+### Golfer with methods
+
+- [Golfer.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-3-methods/Golfer.java)
+
+### Golfer with accessors and mutators aka getters and setters
+
+- [Golfer.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-4-mutators-accessors/Golfer.java)
 
 ## Object-oriented Programming Principles
 
