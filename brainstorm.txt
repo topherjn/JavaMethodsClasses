@@ -1,0 +1,9 @@
+start by going over what we know- data types, variables, if, loops, arrays, static methods
+distinguish between primitive and simple data types and complex data types
+show example parallel arrays of golfers - names and scores - GolfScores.java
+Golfer class - Golfer.java simple one
+discuss OOP principles
+explain methods (member functions) vs procedures vs functions vs subroutines
+show getters and setters - no negative scores
+relate OOP to Java - "everything" is an object
+show inheritance and polymorphism with game units
