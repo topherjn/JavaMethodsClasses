@@ -16,7 +16,7 @@
 
 ## Golfers without Classes
 
-- [Golfers.java]()
+- [Golfers.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-0-without-classes/GolfScores.java)
 
 ## Complex data types
 
