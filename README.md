@@ -41,6 +41,13 @@ Enabling a single function or method to behave differently based on the context,
 
 Hiding complex implementation details and exposing only the necessary features, simplifying usage.
 
+## More complex example
+- This is where we want to be by the end of the course
+- [Unit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/Unit.java)
+- [PlayerUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/PlayerUnit.java)
+- [EnemyUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/EnemyUnit.java)
+- [Main.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/Main.java)
+
 ## Golfers without Classes
 
 - [Golfers.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-0-without-classes/GolfScores.java)
