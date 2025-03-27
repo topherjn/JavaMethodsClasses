@@ -4,17 +4,15 @@ public class GolfDriver {
     }
 
     public static void testGolf() {
-        Golfer g1 = new Golfer();
-        g1.name = "Alice";
-        g1.score = 72;
+        Golfer g1 = new Golfer("Alice", 72);
+        Golfer g2 = new Golfer("Bob", 68);
 
-        System.out.println(g1.name + " scored " + g1.score);
-        // Output: Alice scored 72
+        // Alice
+        g1.display();
+        g1.drive();
 
-        Golfer g2 = new Golfer();
-        g2.name = "Bob";
-        g2.score = 68;
-
+        // Bob
+        g2.display();
         g2.drive();
     }
 }
