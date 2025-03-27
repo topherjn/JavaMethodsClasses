@@ -66,10 +66,11 @@ Enabling a single function or method to behave differently based on the context,
 
 Hiding complex implementation details and exposing only the necessary features, simplifying usage.
 
-## "Everything" is an "object"
+## Complex Example
 
-- Classes vs objects
-- Class "object"
+### This is where we want to be by the end of the course
+
+## Classes
 
 ## Methods
 
