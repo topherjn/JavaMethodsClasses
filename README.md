@@ -2,13 +2,12 @@
 
 ## Things we know so far
 
+- Literals
 - Primitive data types
-- Java has **eight primitive types**, grouped into four categories:
   - **Integer types**: `byte`, `short`, `int`, `long`
   - **Floating-point types**: `float`, `double`
   - **Character type**: `char`
   - **Boolean type**: `boolean`
-- Literals
 - Variables
 - Statements
 - Loops
