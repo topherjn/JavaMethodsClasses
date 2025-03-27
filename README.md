@@ -14,10 +14,6 @@
 - Decisions
 - Methods (static)
 
-## Golfers without Classes
-
-- [Golfers.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-0-without-classes/GolfScores.java)
-
 ## Complex data types
 
 - Versus primitive data types
@@ -31,6 +27,14 @@
 - EnemyUnit
 
 ## Classes
+
+## Golfers without Classes
+
+- [Golfers.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-0-without-classes/GolfScores.java)
+
+### Very simple Golfer class
+
+- [Golfer.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-1-simplest-class/Golfer.java)
 
 ### 
 
