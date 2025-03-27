@@ -1,7 +1,13 @@
 public class Golfer {
     // instance variables aka fields
-    String name;
-    int score;
+    private String name;
+    private int score;
+
+    // constructor with parameters
+    public Golfer(String n, int s) {
+        setName(n);
+        setScore(s);
+    }
 
     // mutator method
     public void setName(String n) {
@@ -15,8 +21,12 @@ public class Golfer {
 
     // mutator method
     public void setScore(int s) {
-        if (s > 0) {
+        if (s >= 0) {
             score = s;
+        }
+
+        else {
+            System.out.println("Invalid score.");
         }
     }
 
@@ -28,5 +38,16 @@ public class Golfer {
     // simple method
     public void drive() {
         System.out.println(name + " is driving the ball.");
+    }
+
+    // display method
+    public void display() {
+        System.out.println("Name: " + name);
+        System.out.println("Score: " + score);
+    }
+
+    // toString method
+    public String toString() {
+        return "Name: " + name + "\nScore: " + score;
     }
 }
