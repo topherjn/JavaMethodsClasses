@@ -2,13 +2,13 @@
 
 ## Things we know so far
 
-- Literals
+- Literals - 8, 2.3, "This is a string"
 - Primitive data types
   - **Integer types**: `byte`, `short`, `int`, `long`
   - **Floating-point types**: `float`, `double`
   - **Character type**: `char`
   - **Boolean type**: `boolean`
-- Variables
+- Variables int x = 8;
 - Statements
 - Loops
 - Decisions
@@ -41,13 +41,6 @@ Enabling a single function or method to behave differently based on the context,
 
 Hiding complex implementation details and exposing only the necessary features, simplifying usage.
 
-## More complex example
-- This is where we want to be by the end of the course
-- [Unit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/Unit.java)
-- [PlayerUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/PlayerUnit.java)
-- [EnemyUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/EnemyUnit.java)
-- [Main.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/Main.java)
-
 ## Golfers without Classes
 
 - [Golfers.java](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-0-without-classes/GolfScores.java)
@@ -59,4 +52,11 @@ Hiding complex implementation details and exposing only the necessary features, 
 - [Golfer with methods](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-3-methods/Golfer.java)
 - [Golfer with accessors and mutators aka getters and setters](https://github.com/topherjn/JavaMethodsClasses/blob/golfer-4-mutators-accessors/Golfer.java)
 
-## Summary
+## More complex example
+
+- This is where we want to be by the end of the course
+- [Unit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/Unit.java)
+- [PlayerUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/PlayerUnit.java)
+- [EnemyUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/EnemyUnit.java)
+- [Main.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/Main.java)
+
