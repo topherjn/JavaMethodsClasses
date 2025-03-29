@@ -3,6 +3,10 @@ public class Golfer {
     private String name;
     private int score;
 
+    // Note that the parameterless constructor has been 
+    // removed.  Now there is no default constructor 
+    // because of the constructor defined below
+    // briefly touch on the this keyword
     public Golfer(String name, int score) {
         this.name = name;
         this.score = score;
