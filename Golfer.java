@@ -4,12 +4,13 @@ public class Golfer {
     public int score;
 
     // constructor
+    // The default constuctor looks like this
+    // when it is not declared
     public Golfer() {
-        name = "Unknown";
-        score = 0;
+        // Note that this is empty
     }
 
-    // constructor with parameters
+    // overloaded constructor with parameters
     public Golfer(String name, int score) {
         this.name = name;
         this.score = score;
