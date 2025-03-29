@@ -25,6 +25,7 @@ public class GolfScores {
 
     private static void displayScores(String[] golfers, int[] scores) {
         // Display the golfers' names and scores
+        // What know what loops are, right?
         System.out.println("Golfers and their scores:");
         for (int i = 0; i < golfers.length; i++) {
             System.out.println(golfers[i] + ": " + scores[i]);
@@ -32,6 +33,7 @@ public class GolfScores {
     }
 
     // get average score
+    // (static) methods like we've been using
     private static double getAverageScore(int[] scores) {
         int total = 0;
         for (int score : scores) {
