@@ -59,4 +59,3 @@ Hiding complex implementation details and exposing only the necessary features, 
 - [PlayerUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/PlayerUnit.java)
 - [EnemyUnit.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/EnemyUnit.java)
 - [Main.java](https://github.com/topherjn/JavaMethodsClasses/blob/game-example/Main.java)
-
