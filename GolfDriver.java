@@ -31,9 +31,6 @@ public class GolfDriver {
 
         // printing the values of the fields of the new Golfer object       
         System.out.println("Golfer Name: " + golfer2.name);
-        System.out.println("Golfer Score: " + golfer2.score);
-
-
-        
+        System.out.println("Golfer Score: " + golfer2.score); 
     }
 }
