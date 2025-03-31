@@ -4,9 +4,9 @@ public class Golfer {
     private int score;
 
     // constructor with parameters
-    public Golfer(String n, int s) {
-        setName(n);
-        setScore(s);
+    public Golfer(String name, int score) {
+        setName(name);
+        setScore(score);
     }
 
     // mutator method
